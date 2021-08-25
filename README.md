@@ -1,17 +1,17 @@
-# gh ost
+# gh ostbusters
 
-A [gh](https://github.com/cli/cli) extension to meet ghost.
+A [gh](https://github.com/cli/cli) extension to meet ghostbusters.
 
 ## Usage
 
 ```sh
-gh ost
+gh ostbusters
 ```
 
 ## Installation
 
 ```sh
-gh extension install mattn/gh-ost
+gh extension install ponta0/gh-ostbusters
 ```
 
 ## License
@@ -20,4 +20,5 @@ MIT
 
 ## Author
 
-Yasuhiro Matsumoto (a.k.a. mattn)
+作者様 : Yasuhiro Matsumoto (a.k.a. mattn)
+改変 : まぐにあ(ponta0)
