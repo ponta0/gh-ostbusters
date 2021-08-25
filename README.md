@@ -21,4 +21,5 @@ MIT
 ## Author
 
 作者様 : Yasuhiro Matsumoto (a.k.a. mattn)
+
 改変 : まぐにあ(ponta0)
